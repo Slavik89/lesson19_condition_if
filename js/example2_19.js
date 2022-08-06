@@ -1,15 +1,14 @@
-/*
+var button5 = document.getElementById("example2");
 
-let age2 = 23;
+let user = {
+    name: "John",
+    age: 30,
+    weight: "75 kg",
+    height: null,
+};
 
-    
-    //if and else if
-    if (age2 < 18) {
-        console.log('Mission is not exetuted');
-    } else if (age2 === 18) {
-       console.log('Mission is exetuted'); 
-    } else if (age2 > 18) {
-        console.log('hello');
-    }
-    
-*/
+function showMessage5() {
+    console.log(user.name);
+}
+
+button5.onclick = showMessage5;

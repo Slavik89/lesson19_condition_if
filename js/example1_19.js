@@ -10,7 +10,7 @@ function showMessage4() {
     } else if (age1 === 18) {
        console.log('Mission is exetuted'); 
     } else if (age1 > 18) {
-        console.log('Mission is failed');
+        console.log('Місія провалена');
     }
 }
 

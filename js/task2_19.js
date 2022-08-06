@@ -1,6 +1,6 @@
 var button2 = document.getElementById("clickme2");
 
-let name2 ='IT';
+let name2 ='ITT';
 
 function showMessage2() {
     

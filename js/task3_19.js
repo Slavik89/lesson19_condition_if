@@ -1,6 +1,6 @@
 var button3 = document.getElementById("clickme3");
 
-let age = 23;
+let age = 18;
 
 function showMessage3() {
     
